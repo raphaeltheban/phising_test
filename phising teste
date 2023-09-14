@@ -1,1 +1,11 @@
 
+"POST /sessions HTTP/1.1" 302 -
+[*] WE GOT A HIT! Printing the output:
+POSSIBLE USERNAME FIELD FOUND: session[username_or_email]=teste_usuario      
+POSSIBLE PASSWORD FIELD FOUND: session[password]=123654teste                 
+PARAM: authenticity_token=dba33c0b2bfdd8e6dcb14a7ab4bd121f38177d52           
+PARAM: scribe_log=                                                           
+POSSIBLE USERNAME FIELD FOUND: redirect_after_login=                         
+PARAM: authenticity_token=dba33c0b2bfdd8e6dcb14a7ab4bd121f38177d52           
+[*] WHEN YOU'RE FINISHED, HIT CONTROL-C TO GENERATE A REPORT.                
+                                                              
